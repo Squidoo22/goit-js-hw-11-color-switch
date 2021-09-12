@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-11-color-switch",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Squidoo22.github.io/goit-js-hw-11-color-switch.git"
+    "url": "git+https://github.com/Squidoo22/goit-js-hw-11-color-switch.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Squidoo22",
   "license": "ISC",
   "bugs": {
-    "url": "https://Squidoo22.github.io/goit-js-hw-11-color-switch/issues"
+    "url": "https://github.com/Squidoo22/goit-js-hw-11-color-switch/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
